@@ -1,6 +1,6 @@
 #include<stdio.h>
 void main()
 {
-  int a=10,b=30;
+  int a=20,b=50;
   printf("sum of a+b %d\n",(a+b));
   }
